@@ -10,7 +10,9 @@ In **0 Wine.R**, mainly actions are data cleaning and restructering the financia
 "TRain_firm_output(3-11).csv"
 "df_cleaned.csv"
 
-"df_Panel.csv" --> used as the input in **1 Wine.R**
+"df_Panel.csv" --> Can be directly used as the input in **1 Wine.R**
+and 
+"df_Panel.33_39_fe"
 
 In **1 Wine.R**, mainly actions are Fixed effect regression model estimation:
 "df_Panel.csv"
