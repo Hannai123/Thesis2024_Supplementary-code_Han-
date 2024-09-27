@@ -1,7 +1,7 @@
 # Thesis2024_Supplementary-code_Han-
 The R code includes data cleaning, data restructuring, and fixed effect regression analysis for the master's thesis research "Investigating the impact of extreme heat on the financial performance of wine processors in Europe". 
 Those file need to be download first to "read". 
-#1 In **0 Wine.R**, mainly actions are data cleaning and restructering the financial data and weather data:
+In **0 Wine.R**, mainly actions are data cleaning and restructering the financial data and weather data:
 "240403_Wine1.xlsx"
 "240403_Wine2.xlsx"
 "240403_Wine3.xlsx"
@@ -12,7 +12,7 @@ Those file need to be download first to "read".
 
 "df_Panel.csv" --> used as the input in **1 Wine.R**
 
-#1 In **0 Wine.R**, mainly actions are Fixed effect regression model estimation:
+In **1 Wine.R**, mainly actions are Fixed effect regression model estimation:
 "df_Panel.csv"
 "Tmax_firm_output(3-11).csv"
 "Tmax_Above.33.Simplify_output.csv"
